@@ -84,7 +84,9 @@
 
 ---
 
-## Credits
+## Author
 
-This application was developed by [Clément GHANEME](https://clement.business).
-Initial Release : 26/11/2024
+**Clément GHANEME**
+
+- [Website](https://clement.business)
+- Initial Release : 26/11/2024
